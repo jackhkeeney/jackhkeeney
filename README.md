@@ -2,5 +2,5 @@
 
 <h2>👨‍💻My Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Azure / CLoud Security Projects</b>
   - [Created live SOC in Azure](https://github.com/jackhkeeney/Cloud-SOC-Jack-Keeney)
